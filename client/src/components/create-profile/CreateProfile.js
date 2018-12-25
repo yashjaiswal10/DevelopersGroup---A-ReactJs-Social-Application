@@ -25,7 +25,6 @@ import {withRouter} from "react-router-dom";
             bio:"",
             twitter:"",
             facebook:"",
-            twitter:"",
             linkedin:"",
             instagram:"",
             youtube:"",

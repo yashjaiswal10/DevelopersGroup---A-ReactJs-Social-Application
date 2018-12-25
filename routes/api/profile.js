@@ -37,7 +37,7 @@ router.get("/",passport.authenticate('jwt',{session:false}),(req,res)=>{
 
 
 // GET api/profile/all   get all profiles   public access
-router.get("/all",(req,res)=>{
+router.get('/all',(req,res)=>{
     const errors={};
 
    
